@@ -1,5 +1,8 @@
 	
-the last commit message : test38
+the last commit message : 
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+# On branch master
 	
 =====
 	
@@ -8,6 +11,7 @@ No Tag
 	
 -----
 	
+- 2015-05-11 (donnol) test38		  <li><a href='https://github.com/fishedee/BakeWeb/commit/b1a7529ca317d931da5e8d9803edbca8a17cb6fb'>view commit</a></li>
 - 2015-05-11 (donnol) test38		  <li><a href='https://github.com/fishedee/BakeWeb/commit/92c57c4d47e77c6f0f464aa3ef54deedd7775111'>view commit</a></li>
 - 2015-05-11 (donnol) test36		  <li><a href='https://github.com/fishedee/BakeWeb/commit/30482e1aef9328dddb1969531599276138c9909d'>view commit</a></li>
 - 2015-05-11 (donnol) test37		  <li><a href='https://github.com/fishedee/BakeWeb/commit/85e6433f5e4fe7dba5b0cc8b42e1b68418e0dda0'>view commit</a></li>

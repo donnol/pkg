@@ -1,15 +1,5 @@
 	
-the last commit message : 
-# Please enter the commit message for your changes. Lines starting
-# with '#' will be ignored, and an empty message aborts the commit.
-# On branch master
-# Your branch is ahead of 'origin/master' by 3 commits.
-#
-# Changes to be committed:
-#   (use "git reset HEAD <file>..." to unstage)
-#
-#	new file:   README.md
-#
+the last commit message : test38
 	
 =====
 	
@@ -18,6 +8,7 @@ No Tag
 	
 -----
 	
+- 2015-05-11 (donnol) test38		  <li><a href='https://github.com/fishedee/BakeWeb/commit/92c57c4d47e77c6f0f464aa3ef54deedd7775111'>view commit</a></li>
 - 2015-05-11 (donnol) test36		  <li><a href='https://github.com/fishedee/BakeWeb/commit/30482e1aef9328dddb1969531599276138c9909d'>view commit</a></li>
 - 2015-05-11 (donnol) test37		  <li><a href='https://github.com/fishedee/BakeWeb/commit/85e6433f5e4fe7dba5b0cc8b42e1b68418e0dda0'>view commit</a></li>
 - 2015-05-11 (donnol) test36		  <li><a href='https://github.com/fishedee/BakeWeb/commit/ee586bcf1fa30d324b7513a2fe20bce47f5cfad8'>view commit</a></li>

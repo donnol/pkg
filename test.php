@@ -1,3 +1,3 @@
 <?php
-	$str = 'test5 commit';
+	$str = 'test6 commit';
 	echo $str;

@@ -1,5 +1,5 @@
 	
-the last commit message : test 48
+the last commit message : test50
 	
 =====
 	
@@ -8,6 +8,7 @@ No Tag
 	
 -----
 	
+- 2015-05-11 (donnol) test50		  <li><a href='https://github.com/fishedee/BakeWeb/commit/ee618a682a915bf77f0a1d62d5cc44bbd6819f44'>view commit</a></li>
 - 2015-05-11 (donnol) test 48		  <li><a href='https://github.com/fishedee/BakeWeb/commit/5aa0d434b9eb5e425cf0ae02f7301f8d8b03b98b'>view commit</a></li>
 - 2015-05-11 (donnol) test47		  <li><a href='https://github.com/fishedee/BakeWeb/commit/bf36a7dbc50c9edcaabfb5f852185cd5642762f3'>view commit</a></li>
 - 2015-05-11 (donnol) test 44		  <li><a href='https://github.com/fishedee/BakeWeb/commit/bdda88a7d276e4d417be591116e88ce107ee15c8'>view commit</a></li>

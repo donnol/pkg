@@ -1,17 +1,14 @@
 	
-the last commit message : test23
+the last commit message : test24
 	
 =====
 	
 =====
-tag V1.1
-Tagger: donnol <jdlau@126.com>
-
-test tag
-Mon May 11 09:33:39 2015 +0800
+No Tag
 	
 -----
 	
+- 2015-05-11 (donnol) test23		  <li><a href='https://github.com/fishedee/BakeWeb/commit/f5cc0bec681bf30dd3578e98f3f2e0589c5c17a6'>view commit</a></li>
 - 2015-05-11 (donnol) test22		  <li><a href='https://github.com/fishedee/BakeWeb/commit/7418a08bd3cef1c6f2fba4b6710ff485a8ee60b5'>view commit</a></li>
 - 2015-05-11 (donnol) test20		  <li><a href='https://github.com/fishedee/BakeWeb/commit/1ad575cd6d8b9759a3ab5b57be774cbf47d5054c'>view commit</a></li>
 - 2015-05-11 (donnol) test20		  <li><a href='https://github.com/fishedee/BakeWeb/commit/30c6b4e7a7841a7a36bb813b479b6dde49e5b103'>view commit</a></li>

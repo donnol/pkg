@@ -1,6 +1,11 @@
 	
 *V1.1*
 	
+changelog.html distribute-0.6.49 distribute-0.6.49.tar.gz README.md
+*V1.0*
+	
+*V1.1*
+	
 =====
 	
 =====

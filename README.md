@@ -1,9 +1,11 @@
 	
+tag
 *V1.1*
-	
+next
 changelog.html distribute-0.6.49 distribute-0.6.49.tar.gz README.md
+tag
 *V1.0*
-	
+next
 *V1.1*
 	
 =====

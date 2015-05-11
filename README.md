@@ -1,12 +1,21 @@
 	
-tag
-*V1.1*
-next
-changelog.html distribute-0.6.49 distribute-0.6.49.tar.gz README.md
-tag
-*V1.0*
-next
-*V1.1*
+	
+	
+=====
+	
+=====
+tag V1.1
+Tagger: donnol <jdlau@126.com>
+
+test tag
+Mon May 11 09:33:39 2015 +0800
+	
+-----
+	
+	
+-----
+	
+	
 	
 =====
 	

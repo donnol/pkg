@@ -1,6 +1,6 @@
 	
 =====
-the last commit message : 0000000
+the last commit message : gggggg
 -----
 	
 =====
@@ -10,6 +10,7 @@ No Tag
 	
 -----
 	
+- 2015-05-12 (donnol) 0000000 		  <li><a href='https://github.com/fishedee/BakeWeb/commit/a57199ff01a986e42865d2922491f8f24c480c4f'>view commit</a></li>
 - 2015-05-12 (donnol) 11121212 		  <li><a href='https://github.com/fishedee/BakeWeb/commit/39d7238231534c24634c74590bb750eb17d3a335'>view commit</a></li>
 - 2015-05-12 (donnol) 111 		  <li><a href='https://github.com/fishedee/BakeWeb/commit/3dfa39501a1c68ad667055d5d0043e202efd11d0'>view commit</a></li>
 - 2015-05-12 (donnol) 11212 		  <li><a href='https://github.com/fishedee/BakeWeb/commit/be1aaae8f1c53787b9fd5c6170804f4cb363ce95'>view commit</a></li>
@@ -155,4 +156,5 @@ V0.1
 Sat May 9 11:26:18 2015 +0800
 	
 -----
-- 2015-05-09 (donnol) ---我的pkg--- 		  <li><a href='https://github.com/fishedee/BakeWeb/commit/34256a925d54943ef7cb8aff00ec73686e839209'>view commit</a></li>
+- 2015-05-09 (donnol) ---我的pkg--- 		  <li><a href='https://github.com/fishedee/BakeWeb/commit/34256a925d54943ef7cb8aff00ec73686e839209'>view commit</a></li>	
+-----

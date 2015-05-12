@@ -1,5 +1,5 @@
 	
-the last commit message : 123456
+the last commit message : 121
 	
 =====
 	
@@ -8,6 +8,7 @@ No Tag
 	
 -----
 	
+- 2015-05-12 (donnol) 123456 		  <li><a href='https://github.com/fishedee/BakeWeb/commit/4a24b93ddfed2dfba986086dfd9ec5f00a515a88'>view commit</a></li>
 - 2015-05-12 (donnol) 123 		  <li><a href='https://github.com/fishedee/BakeWeb/commit/4057897c75f4551d7d2c68972b77220bb9d36c53'>view commit</a></li>
 - 2015-05-12 (donnol) 23456 		  <li><a href='https://github.com/fishedee/BakeWeb/commit/455e0d0961ad9b03f03613e97dfc6e9bd8072521'>view commit</a></li>
 - 2015-05-12 (donnol) 111 		  <li><a href='https://github.com/fishedee/BakeWeb/commit/2b14634cb3cbded3ba1f8331e503fd1dcdbbc3c5'>view commit</a></li>

@@ -1,5 +1,6 @@
 	
-the last commit message : test112
+the last commit message : test113
+test115
 	
 =====
 	
@@ -8,6 +9,7 @@ No Tag
 	
 -----
 	
+- 2015-05-12 (donnol) test113		  <li><a href='https://github.com/fishedee/BakeWeb/commit/354aad31eda08ceb79071bb8c1bd1d927266a15b'>view commit</a></li>
 - 2015-05-12 (donnol) test112		  <li><a href='https://github.com/fishedee/BakeWeb/commit/a34ef1571683a5829d39977d1b8823ac5f979083'>view commit</a></li>
 - 2015-05-12 (donnol) test111		  <li><a href='https://github.com/fishedee/BakeWeb/commit/727022e4f07dcd6fc053dd708159faa22119f2ba'>view commit</a></li>
 - 2015-05-11 (donnol) test 1		  <li><a href='https://github.com/fishedee/BakeWeb/commit/ce837736ed3e7623107fd42ca8d091a2e5a509a9'>view commit</a></li>

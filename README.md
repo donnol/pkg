@@ -1,6 +1,6 @@
 	
 =====
-the last commit message : tete
+the last commit message : 11212
 -----
 	
 =====
@@ -10,6 +10,7 @@ No Tag
 	
 -----
 	
+- 2015-05-12 (donnol) tete 		  <li><a href='https://github.com/fishedee/BakeWeb/commit/90f177107b43c83e230fbc7d333cbfd61749b925'>view commit</a></li>
 - 2015-05-12 (donnol) 1212 		  <li><a href='https://github.com/fishedee/BakeWeb/commit/8e6b58fcc98f2737431880c3ab72fb34bf704224'>view commit</a></li>
 - 2015-05-12 (donnol) rfrfr 		  <li><a href='https://github.com/fishedee/BakeWeb/commit/5babf96c88469862a86dcd29b81269adadace8db'>view commit</a></li>
 - 2015-05-12 (donnol) 2323 		  <li><a href='https://github.com/fishedee/BakeWeb/commit/bf486bcf63ac1ec7ebd33f27116fab55d7d01b7b'>view commit</a></li>

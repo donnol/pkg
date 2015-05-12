@@ -1,6 +1,6 @@
 	
 =====
-the last commit message : 11121212
+the last commit message : 0000000
 -----
 	
 =====
@@ -10,6 +10,7 @@ No Tag
 	
 -----
 	
+- 2015-05-12 (donnol) 11121212 		  <li><a href='https://github.com/fishedee/BakeWeb/commit/39d7238231534c24634c74590bb750eb17d3a335'>view commit</a></li>
 - 2015-05-12 (donnol) 111 		  <li><a href='https://github.com/fishedee/BakeWeb/commit/3dfa39501a1c68ad667055d5d0043e202efd11d0'>view commit</a></li>
 - 2015-05-12 (donnol) 11212 		  <li><a href='https://github.com/fishedee/BakeWeb/commit/be1aaae8f1c53787b9fd5c6170804f4cb363ce95'>view commit</a></li>
 - 2015-05-12 (donnol) tete 		  <li><a href='https://github.com/fishedee/BakeWeb/commit/90f177107b43c83e230fbc7d333cbfd61749b925'>view commit</a></li>
@@ -143,4 +144,15 @@ Sat May 9 15:23:30 2015 +0800
 - 2015-05-09 (donnol) ---加入日志页面--- 		  <li><a href='https://github.com/fishedee/BakeWeb/commit/bebaeb456fc4bc681bae8ddf308dc908c10ded0c'>view commit</a></li>	
 -----
 	
+	
+=====
+	
+=====
+tag V0.1
+Tagger: donnol <jdlau@126.com>
+
+V0.1
+Sat May 9 11:26:18 2015 +0800
+	
+-----
 - 2015-05-09 (donnol) ---我的pkg--- 		  <li><a href='https://github.com/fishedee/BakeWeb/commit/34256a925d54943ef7cb8aff00ec73686e839209'>view commit</a></li>

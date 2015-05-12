@@ -1,6 +1,6 @@
 	
 =====
-the last commit message : rfrfr
+the last commit message : 1212
 -----
 	
 =====
@@ -10,6 +10,7 @@ No Tag
 	
 -----
 	
+- 2015-05-12 (donnol) rfrfr 		  <li><a href='https://github.com/fishedee/BakeWeb/commit/5babf96c88469862a86dcd29b81269adadace8db'>view commit</a></li>
 - 2015-05-12 (donnol) 2323 		  <li><a href='https://github.com/fishedee/BakeWeb/commit/bf486bcf63ac1ec7ebd33f27116fab55d7d01b7b'>view commit</a></li>
 - 2015-05-12 (donnol) 222 		  <li><a href='https://github.com/fishedee/BakeWeb/commit/5d94add5ba4cfbf2e27a90735623eca66d8c3288'>view commit</a></li>
 - 2015-05-12 (donnol) 11 		  <li><a href='https://github.com/fishedee/BakeWeb/commit/262d97362bf341ca5686899988cd527e41880ca2'>view commit</a></li>
@@ -94,40 +95,28 @@ No Tag
 - 2015-05-11 (donnol) test4 		  <li><a href='https://github.com/fishedee/BakeWeb/commit/9f3ac95a5668531d3be4cb82820dd80c157297b6'>view commit</a></li>
 - 2015-05-11 (donnol) test3 		  <li><a href='https://github.com/fishedee/BakeWeb/commit/63ffd13367669eb186133861436c753150c5e428'>view commit</a></li>
 - 2015-05-11 (donnol) test2 		  <li><a href='https://github.com/fishedee/BakeWeb/commit/f069a5936e93cbe0f25d890db7b5e424de91109e'>view commit</a></li>
-- 2015-05-11 (donnol) test 		  <li><a href='https://github.com/fishedee/BakeWeb/commit/a09aa6559f038fe2fb87482463c5ea5b74fdd2dc'>view commit</a></li>
+- 2015-05-11 (donnol) test 		  <li><a href='https://github.com/fishedee/BakeWeb/commit/a09aa6559f038fe2fb87482463c5ea5b74fdd2dc'>view commit</a></li>	
+-----
+	
+	
+=====
+	
+=====
+tag V1.1
+Tagger: donnol <jdlau@126.com>
+
+test tag
+Mon May 11 09:33:39 2015 +0800
+	
+-----
+	
 - 2015-05-11 (donnol) test test 		  <li><a href='https://github.com/fishedee/BakeWeb/commit/0822ccf0cbf5c1d436401b2c16f067650dfec7bc'>view commit</a></li>
 - 2015-05-09 (donnol) 修改颜色及标题 		  <li><a href='https://github.com/fishedee/BakeWeb/commit/03b74393f1760a579d0bad3231c29b97b771c146'>view commit</a></li>
 - 2015-05-09 (donnol) 调颜色 		  <li><a href='https://github.com/fishedee/BakeWeb/commit/4569506f9d6f54604f02732140dcb596417245ee'>view commit</a></li>
 - 2015-05-09 (donnol) 加颜色 		  <li><a href='https://github.com/fishedee/BakeWeb/commit/8b836d311f0e982ef9afee3b43ee2b9c4d2980b3'>view commit</a></li>
 - 2015-05-09 (donnol) 修改样式 		  <li><a href='https://github.com/fishedee/BakeWeb/commit/fb3735d41f216373ed9c8d76b45cd240708c868e'>view commit</a></li>
 - 2015-05-09 (donnol) 修改样式 		  <li><a href='https://github.com/fishedee/BakeWeb/commit/d41d791d198a3cb56647f32b7ffb8d027a738435'>view commit</a></li>
-- 2015-05-09 (donnol) 修改显示 		  <li><a href='https://github.com/fishedee/BakeWeb/commit/e6216079388d6eb2fd1da868e9aa61d1956a4bf2'>view commit</a></li>
-- 2015-05-09 (donnol) ---修改样式--- 		  <li><a href='https://github.com/fishedee/BakeWeb/commit/0a9a45a601e391cf842de65b5792668f5ec06191'>view commit</a></li>
-- 2015-05-09 (donnol) utf8 in html head 		  <li><a href='https://github.com/fishedee/BakeWeb/commit/9d7050392b8787ba35f1495e672c777146049365'>view commit</a></li>
-- 2015-05-09 (donnol) ---fix utf-8 in git log --- 		  <li><a href='https://github.com/fishedee/BakeWeb/commit/7fe51822a9b65209d2c3219f14653730b9d659a0'>view commit</a></li>
-- 2015-05-09 (donnol) fix utf8 		  <li><a href='https://github.com/fishedee/BakeWeb/commit/f5d7f9d129e90bf89ad6f96475a99c6c55cec021'>view commit</a></li>
-- 2015-05-09 (donnol) utf8 		  <li><a href='https://github.com/fishedee/BakeWeb/commit/30d4cf2373a2aff094d7dc562b42fa92624d7d6c'>view commit</a></li>
-- 2015-05-09 (donnol) ---加入日志页面--- 		  <li><a href='https://github.com/fishedee/BakeWeb/commit/bebaeb456fc4bc681bae8ddf308dc908c10ded0c'>view commit</a></li>	
------
-	
-	
-=====
-	
-=====
-tag V0.1
-Tagger: donnol <jdlau@126.com>
-
-V0.1
-Sat May 9 11:26:18 2015 +0800
-	
------
-	
-- 2015-05-09 (donnol) ---修改样式--- 		  <li><a href='https://github.com/fishedee/BakeWeb/commit/0a9a45a601e391cf842de65b5792668f5ec06191'>view commit</a></li>
-- 2015-05-09 (donnol) utf8 in html head 		  <li><a href='https://github.com/fishedee/BakeWeb/commit/9d7050392b8787ba35f1495e672c777146049365'>view commit</a></li>
-- 2015-05-09 (donnol) ---fix utf-8 in git log --- 		  <li><a href='https://github.com/fishedee/BakeWeb/commit/7fe51822a9b65209d2c3219f14653730b9d659a0'>view commit</a></li>
-- 2015-05-09 (donnol) fix utf8 		  <li><a href='https://github.com/fishedee/BakeWeb/commit/f5d7f9d129e90bf89ad6f96475a99c6c55cec021'>view commit</a></li>
-- 2015-05-09 (donnol) utf8 		  <li><a href='https://github.com/fishedee/BakeWeb/commit/30d4cf2373a2aff094d7dc562b42fa92624d7d6c'>view commit</a></li>
-- 2015-05-09 (donnol) ---加入日志页面--- 		  <li><a href='https://github.com/fishedee/BakeWeb/commit/bebaeb456fc4bc681bae8ddf308dc908c10ded0c'>view commit</a></li>	
+- 2015-05-09 (donnol) 修改显示 		  <li><a href='https://github.com/fishedee/BakeWeb/commit/e6216079388d6eb2fd1da868e9aa61d1956a4bf2'>view commit</a></li>	
 -----
 	
 	
@@ -142,12 +131,11 @@ Sat May 9 15:23:30 2015 +0800
 	
 -----
 	
-- 2015-05-11 (donnol) test test 		  <li><a href='https://github.com/fishedee/BakeWeb/commit/0822ccf0cbf5c1d436401b2c16f067650dfec7bc'>view commit</a></li>
-- 2015-05-09 (donnol) 修改颜色及标题 		  <li><a href='https://github.com/fishedee/BakeWeb/commit/03b74393f1760a579d0bad3231c29b97b771c146'>view commit</a></li>
-- 2015-05-09 (donnol) 调颜色 		  <li><a href='https://github.com/fishedee/BakeWeb/commit/4569506f9d6f54604f02732140dcb596417245ee'>view commit</a></li>
-- 2015-05-09 (donnol) 加颜色 		  <li><a href='https://github.com/fishedee/BakeWeb/commit/8b836d311f0e982ef9afee3b43ee2b9c4d2980b3'>view commit</a></li>
-- 2015-05-09 (donnol) 修改样式 		  <li><a href='https://github.com/fishedee/BakeWeb/commit/fb3735d41f216373ed9c8d76b45cd240708c868e'>view commit</a></li>
-- 2015-05-09 (donnol) 修改样式 		  <li><a href='https://github.com/fishedee/BakeWeb/commit/d41d791d198a3cb56647f32b7ffb8d027a738435'>view commit</a></li>
-- 2015-05-09 (donnol) 修改显示 		  <li><a href='https://github.com/fishedee/BakeWeb/commit/e6216079388d6eb2fd1da868e9aa61d1956a4bf2'>view commit</a></li>	
+- 2015-05-09 (donnol) ---修改样式--- 		  <li><a href='https://github.com/fishedee/BakeWeb/commit/0a9a45a601e391cf842de65b5792668f5ec06191'>view commit</a></li>
+- 2015-05-09 (donnol) utf8 in html head 		  <li><a href='https://github.com/fishedee/BakeWeb/commit/9d7050392b8787ba35f1495e672c777146049365'>view commit</a></li>
+- 2015-05-09 (donnol) ---fix utf-8 in git log --- 		  <li><a href='https://github.com/fishedee/BakeWeb/commit/7fe51822a9b65209d2c3219f14653730b9d659a0'>view commit</a></li>
+- 2015-05-09 (donnol) fix utf8 		  <li><a href='https://github.com/fishedee/BakeWeb/commit/f5d7f9d129e90bf89ad6f96475a99c6c55cec021'>view commit</a></li>
+- 2015-05-09 (donnol) utf8 		  <li><a href='https://github.com/fishedee/BakeWeb/commit/30d4cf2373a2aff094d7dc562b42fa92624d7d6c'>view commit</a></li>
+- 2015-05-09 (donnol) ---加入日志页面--- 		  <li><a href='https://github.com/fishedee/BakeWeb/commit/bebaeb456fc4bc681bae8ddf308dc908c10ded0c'>view commit</a></li>	
 -----
 	

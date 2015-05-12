@@ -1,5 +1,10 @@
 	
-the last commit message : test 80
+the last commit message : 
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+# On branch master
+# Your branch is ahead of 'origin/master' by 15 commits.
+#
 	
 =====
 	
@@ -8,6 +13,7 @@ No Tag
 	
 -----
 	
+- 2015-05-11 (donnol) test 1		  <li><a href='https://github.com/fishedee/BakeWeb/commit/ce837736ed3e7623107fd42ca8d091a2e5a509a9'>view commit</a></li>
 - 2015-05-11 (donnol) test 80		  <li><a href='https://github.com/fishedee/BakeWeb/commit/51b6f4e049e1e4468fee65293a0ab8785a7ca640'>view commit</a></li>
 - 2015-05-11 (donnol) test71		  <li><a href='https://github.com/fishedee/BakeWeb/commit/554294ed6f337a8ddc91aac42e46a5e3ab439150'>view commit</a></li>
 - 2015-05-11 (donnol) test70		  <li><a href='https://github.com/fishedee/BakeWeb/commit/5f75f00580c99bcd3dc0922a5efea3bb1c02d8ff'>view commit</a></li>

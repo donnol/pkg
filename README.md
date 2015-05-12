@@ -1,6 +1,6 @@
 	
 =====
-the last commit message : end3
+the last commit message : final
 -----
 	
 =====
@@ -10,6 +10,7 @@ No Tag
 	
 -----
 	
+- 2015-05-12 (donnol) end3 		  <li><a href='https://github.com/fishedee/BakeWeb/commit/15d5a834bde4ee7416e5c07d3309ace4d7b75f82'>view commit</a></li>
 - 2015-05-12 (donnol) end2 		  <li><a href='https://github.com/fishedee/BakeWeb/commit/302bc6f902f5077db26d20a010f93fdb019bf4c7'>view commit</a></li>
 - 2015-05-12 (donnol) end 		  <li><a href='https://github.com/fishedee/BakeWeb/commit/7ed110232ccd61fd681a73dc7ef7979d7fd5a43f'>view commit</a></li>
 - 2015-05-12 (donnol) 121121 		  <li><a href='https://github.com/fishedee/BakeWeb/commit/20fbf9f2357c11ee701529c8bf5e2f0b2d6b6509'>view commit</a></li>

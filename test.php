@@ -1,3 +1,10 @@
 <?php
 	$str = 'test56 commit';
-	echo $str;
+	function test(){
+		if( $str == '')
+			echo 'error';
+		else
+			echo $str;
+	}
+
+	test();
